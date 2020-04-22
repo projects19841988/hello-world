@@ -4,5 +4,7 @@ this is a short overview of last two years I have been absent; currently impriso
 
 on new branch
 
+dodala jos jedan red
+
 
 
